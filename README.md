@@ -1,0 +1,2 @@
+# dynamics
+study for dynamics
